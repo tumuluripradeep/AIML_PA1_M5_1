@@ -2,6 +2,8 @@
 
 In this project, "Berkeley AIML Practical Application 1 - Module 5.1", it was asked to explore the data and utliize the attained knowledge of pandas,seaborn,numpy,matplotlib to create statistical summaries demonstrating differences in those (from provided .csv) who accepted and rejected the coupon. Below is my findings from the analysis and summary. Jupyter notebook link:
 
+https://github.com/tumuluripradeep/AIML_PA1_M5_1/blob/main/prompt.ipynb
+
 
 
 
